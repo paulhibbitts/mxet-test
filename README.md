@@ -13,6 +13,8 @@ Resources for Multidisciplinary Engineering Education
 # Introduction
 *Dear MXET students: If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
 
+<div class="accordion">
+
 <details>
   <summary>⚠️ To see latest changes</summary>
   
@@ -25,6 +27,7 @@ Resources for Multidisciplinary Engineering Education
   
   </details>
 
+</div>
 
 # Powered Electronics
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.

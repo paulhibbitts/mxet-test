@@ -25,7 +25,7 @@ Resources for Multidisciplinary Engineering Education
   
   ![changelog image](https://i.imgur.com/zu2Jpuh.png)
   
-  </details>
+</details>
 
 </div>
 

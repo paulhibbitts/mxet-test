@@ -10,6 +10,11 @@ Resources for Multidisciplinary Engineering Education
 | [Github Repository](https://github.com/MXET/resources ':class=button')
 | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
+Example of using `navpills` (vs. `button`):  
+[Web Page](https://qr.page/g/4ZptmdWxn5y ':class=navpill')  
+[Github Repository](https://github.com/MXET/resources ':class=navpill')  
+[Change Log](https://github.com/MXET/resources/commits/main ':class=navpill')  
+
 # Introduction
 *Dear MXET students: If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
 

@@ -11,6 +11,7 @@ Resources for Multidisciplinary Engineering Education
 | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
 Example of using `navpills` (vs. `button`) CSS class:  
+
 [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=navpill') [Github Repository](https://github.com/MXET/resources ':class=navpill') [Change Log](https://github.com/MXET/resources/commits/main ':class=navpill')  
 
 # Introduction
